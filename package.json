@@ -1,0 +1,12 @@
+{
+  "name": "nexfgen-hub",
+  "version": "1.0.0",
+  "description": "NEXFGEN HUB Cloud Console",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
